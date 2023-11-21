@@ -4,16 +4,13 @@ Experienced Web Developer with expertise in Laravel, MySQL, and React.js. Proven
 
 ## Projects
 
-1. **QR Code Generator **
+1. [**QR Code Generator**](https://github.com/yossef-elgendy/qr-code-generator-app)
    - Simple QR Code Generator
    - Technologies: React, Typescript, CSS
-   - [GitHub Repository](https://github.com/yossef-elgendy/qr-code-generator-app)
 
-2. **Simple Articles App**
+2. [**Simple Articles App**](https://github.com/yossef-elgendy/articles-app)
    - Showing a personalized feed of articles utilizing third-party APIs to fetch articles.
    - Technologies: PHP, Laravel, React.js, CSS
-   - [GitHub Repository](https://github.com/yossef-elgendy/articles-app)
-
 
 ## Tech Stack
 
