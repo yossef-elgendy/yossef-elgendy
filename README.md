@@ -1,6 +1,6 @@
-# Yousef Elgendy - Back-End Web Developer
+# Yousef Elgendy - Web Developer
 
-Experienced Back-End Stack Web Developer with expertise in Laravel, MySQL, and React.js. Proven track record in delivering innovative solutions and enhancing product efficiency. Skilled in modernizing legacy systems, optimizing performance, and collaborating effectively to achieve outstanding outcomes.
+Experienced Web Developer with expertise in Laravel, MySQL, and React.js. Proven track record in delivering innovative solutions and enhancing product efficiency. Skilled in modernizing legacy systems, optimizing performance, and collaborating effectively to achieve outstanding outcomes.
 
 ## Projects
 
