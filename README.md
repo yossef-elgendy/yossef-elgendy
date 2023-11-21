@@ -1,6 +1,6 @@
 # Yousef Elgendy - Back-End Web Developer
 
-Experienced Full Stack Web Developer with expertise in Laravel, MySQL, and React.js. Proven track record in delivering innovative solutions and enhancing product efficiency. Skilled in modernizing legacy systems, optimizing performance, and collaborating effectively to achieve outstanding outcomes.
+Experienced Bac-End Stack Web Developer with expertise in Laravel, MySQL, and React.js. Proven track record in delivering innovative solutions and enhancing product efficiency. Skilled in modernizing legacy systems, optimizing performance, and collaborating effectively to achieve outstanding outcomes.
 
 ## Work Experience
 
@@ -10,20 +10,6 @@ Experienced Full Stack Web Developer with expertise in Laravel, MySQL, and React
 - Collaborated actively with the project manager for 20% faster task delivery.
 - Diagnosed and resolved 20+ critical issues using current industry methods.
 - Enhanced client deliverables' efficiency by 30% through performance improvements.
-
-### Citadele X-Rewards System Migration to ScandiPWA Theme
-**Fullstack Developer • 2022 - 2023**
-
-- Guided client service development, leading to a 25% reduction in platform load times.
-- Contributed to the construction of the API gateway, enabling 40% faster service communication.
-- Completed the project 1 month ahead, ensuring top-notch performance with Micro-services.
-
-### Micro-services-based C2C E-commerce (Graduation Project)
-**Fullstack Developer • July 2023–present | Backend Developer • Sep 2021–June 2022**
-
-- Elevating user experience through system modernization.
-- Resolved 250+ issues, ensuring a seamless system interface.
-- Adapted 40+ Magento backend functionalities from a previous agency into efficient GraphQL queries.
 
 ## Projects
 
