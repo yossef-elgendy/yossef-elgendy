@@ -23,7 +23,6 @@ Experienced Bac-End Stack Web Developer with expertise in Laravel, MySQL, and Re
   <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2346A2F9.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
 </p>
